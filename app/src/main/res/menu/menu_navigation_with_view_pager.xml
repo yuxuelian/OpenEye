@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:checked="true"
+        android:icon="@drawable/icon_home"
+        android:title="@string/string_home" />
+
+    <item
+        android:id="@+id/find"
+        android:icon="@drawable/icon_find"
+        android:title="@string/string_find" />
+
+    <item
+        android:id="@+id/hot"
+        android:icon="@drawable/icon_hot"
+        android:title="@string/string_hot" />
+
+    <item
+        android:id="@+id/mine"
+        android:icon="@drawable/icon_mine"
+        android:title="@string/home_mine" />
+</menu>
